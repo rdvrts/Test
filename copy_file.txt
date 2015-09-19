@@ -2,3 +2,4 @@ one line of text.
 a new line.
 second line of text.
 another line on local master
+another line on remote
